@@ -6,7 +6,7 @@
 
     <groupId>de.bytefish.elasticutils</groupId>
     <artifactId>elasticutils-parent</artifactId>
-    <version>1.0</version>
+    <version>1.3</version>
 
     <name>elasticutils</name>
     <packaging>pom</packaging>
@@ -103,6 +103,7 @@
 		<module>elasticutils-elasticsearch2</module>
         <module>elasticutils-elasticsearch5</module>
         <module>elasticutils-elasticsearch6</module>
+        <module>elasticutils-elasticsearch7</module>
     </modules>
 
     <properties>
